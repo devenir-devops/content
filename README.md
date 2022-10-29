@@ -1,18 +1,41 @@
-# Contenu Devenir DevOps
+# Website
 
-Ce dépôt contient le contenu du site [Devenir DevOps](https://devenir-devops.com).
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-Il est fait pour être utilisable librement (voir [license](LICENSE.md)) par tous.
+### Installation
 
-Le contenu est écrit en [Markdown](https://fr.wikipedia.org/wiki/Markdown) mais contient aussi des fichiers en YAML, JSON ainsi que des illustrations et documents aux format divers.
+```
+$ yarn
+```
 
-Si vous êtes l'auteur d'un des documents et que vous souhaitez qu'il soit retiré de ce dépot, n'hésitez pas à nous contacter en créant une issue sur ce [dépot](https://github.com/devenir-devops/content).
+### Local Development
 
-## Contribuer
+```
+$ yarn start
+```
 
-Si vous souhaitez contribuer, vous pouvez le faire en créant une issue ou en faisant une pull request.
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
+### Build
 
+```
+$ yarn build
+```
 
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
+### Deployment
 
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
