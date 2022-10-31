@@ -1,0 +1,8 @@
+{
+  "label": "Gestion de version",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Il est indispensable de conserver les traces des modifications dans le code source"
+  }
+}

@@ -40,7 +40,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             "https://github.com/devenir-devops/content/tree/main",
-          remarkPlugins: [oembed],
+          remarkPlugins: [oembed]
         },
         blog: {
           showReadingTime: true,
@@ -90,8 +90,13 @@ const config = {
                 label: "Contenu",
                 to: "/docs/intro",
               },
+              {
+                label: "Blog",
+                to: "/blog",
+              },
             ],
           },
+          /*
           {
             title: "Community",
             items: [
@@ -109,6 +114,7 @@ const config = {
               },
             ],
           },
+          
           {
             title: "Plus",
             items: [
@@ -118,6 +124,8 @@ const config = {
               },
             ],
           },
+          
+          */
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Devenir-DevOps, Inc. pages construites with Docusaurus.`,
       },

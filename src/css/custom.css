@@ -45,6 +45,12 @@ img[src*='#right'] {
   margin-left: auto;
 }
 
+img[src*='#logo-right'] { 
+  display: block;
+  margin-left: auto;
+  width: 15rem;
+}
+
 img[src*='#float-right'] { 
   float:right;
 }
