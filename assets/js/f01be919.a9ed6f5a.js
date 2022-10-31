@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[3159],{3275:s=>{s.exports=JSON.parse('{"label":"ovh","permalink":"/docs/tags/ovh","allTagsPath":"/docs/tags","count":1,"items":[{"id":"clouds/ovh","title":"OVH","description":"","permalink":"/docs/clouds/ovh"}]}')}}]);

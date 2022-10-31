@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[7197],{4014:a=>{a.exports=JSON.parse('{"label":"vagrant","permalink":"/docs/tags/vagrant","allTagsPath":"/docs/tags","count":1,"items":[{"id":"outils/vagrant","title":"Vagrant","description":"Vagrant est un outil de virtualisation de machines virtuelles.","permalink":"/docs/docs/outils/vagrant"}]}')}}]);

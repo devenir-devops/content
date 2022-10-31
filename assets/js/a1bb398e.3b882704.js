@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[4843],{9032:s=>{s.exports=JSON.parse('{"label":"cloud","permalink":"/docs/tags/cloud","allTagsPath":"/docs/tags","count":2,"items":[{"id":"clouds/ovh","title":"OVH","description":"","permalink":"/docs/clouds/ovh"},{"id":"clouds/scaleway","title":"Scaleway","description":"","permalink":"/docs/clouds/scaleway"}]}')}}]);

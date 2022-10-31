@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[7792],{7229:e=>{e.exports=JSON.parse('{"label":"iac","permalink":"/docs/tags/iac","allTagsPath":"/docs/tags","count":1,"items":[{"id":"outils/terraform","title":"Terraform","description":"Terraform est un outil de d\'infrastructure as code (IaC).","permalink":"/docs/docs/outils/terraform"}]}')}}]);

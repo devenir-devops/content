@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2062],{7618:a=>{a.exports=JSON.parse('{"label":"scaleway","permalink":"/docs/tags/scaleway","allTagsPath":"/docs/tags","count":1,"items":[{"id":"clouds/scaleway","title":"Scaleway","description":"","permalink":"/docs/clouds/scaleway"}]}')}}]);
